@@ -10,15 +10,6 @@
 
 ---
 
-<div align="center">
-  <h3>🏆 My GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=malindugeethsara&theme=onedark" alt="malindugeethsara" />
-  </a>
-</div>
-
----
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -34,22 +25,18 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malindugeethsara&theme=transparent&hide_border=true&border_radius=6.5" alt="malindugeethsara" />
+</div>
+
+<br/>
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malindugeethsara&show_icons=true&locale=en&theme=transparent&bg_color=00000000&border_color=30A3DC&title_color=E9D021&icon_color=E9D021" alt="malindugeethsara" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malindugeethsara&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=00000000&border_color=30A3DC&title_color=E9D021&icon_color=E9D021" alt="malindugeethsara" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malindugeethsara&theme=transparent&hide_border=true&border_radius=6.5" alt="malindugeethsara" />
-</div>
-
----
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
