@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253dnh3MTJsMXduajlmbmJxazJnMmo3anFvemFvbjVyZWh1eDBtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pxwlYSM8PfY5y/giphy.gif" width="60px" alt="Hello GIF">
+  <img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253dnh3MTJsMXduajlmbmJxazJnMmo3anFvemFvbjVyZWh1eDBtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pxwlYSM8PfY5y/giphy.gif" 
+  style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;" 
+  alt="Hello GIF"
+>
   <h1 align="center">Hi 👋, I'm Malindu Geethsara</h1>
   <h3 align="center">A passionate **Frontend Developer** from Sri Lanka</h3>
 </div>
