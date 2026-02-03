@@ -1,14 +1,9 @@
 <div align="center">
-  <style>
-  .circle-gif {
-    width: 60px;         /* Sets the size */
-    height: 60px;        /* Must match width for a perfect circle */
-    border-radius: 50%;  /* Creates the circular shape */
-    object-fit: cover;   /* Crops the image to fit without stretching */
-  }
-</style>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253dnh3MTJsMXduajlmbmJxazJnMmo3anFvemFvbjVyZWh1eDBtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pxwlYSM8PfY5y/giphy.gif" class="circle-gif" alt="Hello GIF">
+ <img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd253dnh3MTJsMXduajlmbmJxazJnMmo3anFvemFvbjVyZWh1eDBtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pxwlYSM8PfY5y/giphy.gif" 
+  style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;" 
+  alt="Hello GIF"
+>
   <h1 align="center">Hi 👋, I'm Malindu Geethsara</h1>
   <h3 align="center">A passionate **Frontend Developer** from Sri Lanka</h3>
 </div>
