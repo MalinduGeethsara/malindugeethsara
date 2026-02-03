@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Q8QDbG8Q40Rryg370K/giphy.gif" width="60px" alt="Hello GIF">
   <h1 align="center">Hi 👋, I'm Malindu Geethsara</h1>
-  <h3 align="center">A passionate **Frontend Developer** from India 🇮🇳</h3>
+  <h3 align="center">A passionate **Frontend Developer** from Sri Lanka</h3>
 </div>
 
 <p align="center"> 
