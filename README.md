@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Malindu Geethsara</h1>
-  <h3 align="center">A passionate **Frontend Developer** from Sri Lanka</h3>
+  <h3 align="center">A passionate **Full Stack Developerr** from Sri Lanka</h3>
 </div>
 
 <p align="center"> 
